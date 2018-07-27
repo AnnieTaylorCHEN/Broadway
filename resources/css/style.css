@@ -31,7 +31,7 @@ footer{
     text-align: left;
 }
 
-.whitefont {
+nav a {
     color: white;
     font-weight:bold;
 }
